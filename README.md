@@ -1,6 +1,6 @@
 # TetriNET Bot
 
-This repository hosts the source code for a bot that successfully played an online multiplayer Tetris game called TetriNET back in the 2001 - 2002 timeframe. Check out [this blog post](http://mattmazur.com/2009/05/25/creating-a-tetrinet-bot/) for more information.
+This repository hosts the source code for a bot that successfully played an online multiplayer Tetris game called TetriNET back in the 2001 - 2002 timeframe. Check out [this blog post](http://mattmazur.com/2009/05/25/creating-a-TetriNET-bot/) for more information as well as documentation.
 
 # Contact
 
