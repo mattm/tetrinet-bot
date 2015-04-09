@@ -1,0 +1,6 @@
+frmMain = 44, 44, 454, 390, Z, 22, 22, 432, 368, C
+modUniversal = 88, 88, 406, 434, 
+modNormal = 154, 154, 518, 500, 
+modSkilled = 0, 0, 293, 346, 
+frmNormDisplay = 198, 198, 708, 646, , 66, 66, 511, 514, C
+modSpecials = 176, 176, 686, 624, 
