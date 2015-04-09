@@ -149,7 +149,6 @@ Public Sub DropBlockNormal()
 	Next rotatePiece
 End Sub
 
-
 Public Function AnalyzeField(matrixSource As String, Block As String, Position As Integer) As String
 	Dim blockLength%, blockHeight%, analyzeRows%
 	Dim bHoles%, range2%, bTotalHoles%, lastP%, bTop%, bBottom%
